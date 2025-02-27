@@ -29,4 +29,5 @@ Made by Protechnopolis
 
 4. **Run the script**
 
- ```node index.js```
+ ```node index.js
+  ```
