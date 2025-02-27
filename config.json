@@ -1,0 +1,5 @@
+{
+    "track_id": "YOUR_TRACK_ID",
+    "webhook": "YOUR_WEBHOOK_URL",
+    "text": "<@id> The status of your parcel changed !"
+}
