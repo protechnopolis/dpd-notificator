@@ -1,4 +1,4 @@
-# 📦 dpd-notificator 🚀  
+# 📦 DPD-notificator 🚀  
 
 A simple and efficient system that allows you to receive **instant alerts** via **webhook** whenever your **DPD package** status changes! 🛎️🔔  
 ## ✨ Features  
