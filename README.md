@@ -17,8 +17,8 @@ A simple and efficient system that allows you to receive **instant alerts** via 
 
 2. **Update the config.json file**
 
- ```bash 
-sudo nano config.json```
+   ```bash
+  sudo nano config.json```
 
 
 
