@@ -13,4 +13,19 @@ A simple and efficient system that allows you to receive **instant alerts** via 
 1. **Clone the project** 🖥️  
    ```bash
    git clone https://github.com/protechnopolis/dpd-notificator.git
-   cd dpd-notificator
+   cd dpd-notificator```
+
+2. **Update the config.json file**
+
+ ```sudo nano config.json```
+
+
+
+Made by Protechnopolis
+3. **Install the dependencies**
+
+ ```npm i```
+
+4. **Run the script**
+
+ ```node index.js```
