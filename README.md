@@ -25,8 +25,7 @@ A simple and efficient system that allows you to receive **instant alerts** via 
 Made by Protechnopolis
 3. **Install the dependencies**
 
- ```bash
- npm i```
+   ```sudo nano config.json```
 
 4. **Run the script**
 
