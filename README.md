@@ -17,8 +17,8 @@ A simple and efficient system that allows you to receive **instant alerts** via 
 
 2. **Update the config.json file**
 
- ```sudo nano config.json`
- ``
+ ```bash 
+sudo nano config.json```
 
 
 
@@ -29,5 +29,4 @@ Made by Protechnopolis
 
 4. **Run the script**
 
- ```node index.js
-  ```
+ ```node index.js```
