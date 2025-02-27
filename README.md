@@ -18,14 +18,15 @@ A simple and efficient system that allows you to receive **instant alerts** via 
 2. **Update the config.json file**
 
    ```bash
-  sudo nano config.json```
+   sudo nano config.json```
 
 
 
 Made by Protechnopolis
 3. **Install the dependencies**
 
- ```npm i```
+ ```bash
+ npm i```
 
 4. **Run the script**
 
