@@ -69,7 +69,7 @@ async function sendWebhookNotification(status, trackingData) {
         content: config.text,
         embeds: [embed]
     });
-    console.log('Notification envoyée au webhook.');
+    console.log('Notif-Statut envoyée au webhook.');
 }
 
 setInterval(checkForStatusUpdate, 5 * 60 * 1000);
